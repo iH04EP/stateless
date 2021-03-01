@@ -29,6 +29,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\asset\Stateless.png" Pack="true" PackagePath="\"/>
+    <None Include="..\..\asset\Stateless.png" Pack="true" PackagePath="\" />
   </ItemGroup>
 </Project>
