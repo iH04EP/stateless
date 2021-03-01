@@ -1,0 +1,31 @@
+{
+  "name": "state-machine-unity",
+  "displayName": "Stateless for Unity",
+  "version": "5.10.1",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "description": "Fork of https://github.com/dotnet-state-machine/stateless integrated with Unity Package Manager ",
+  "dependencies": {
+  },
+  "keywords": [
+    "modules",
+    "ads"
+  ],
+  "type": "module",
+  "samples": [
+    {
+      "displayName": "Sample Scenes and Extras",
+      "description": "Sample scenes that demonstrate the usage of the Hitapps Ads.",
+      "path": "../../example"
+    }
+  ],
+  "author": {
+    "name": "Bayer Artem",
+    "email": "mr.h04ep@gmail.com",
+    "url": "https://github.com/iH04EP"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotnet-state-machine/stateless"
+  }
+}
